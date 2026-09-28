@@ -19,4 +19,4 @@ Currently Focused on- Systems Programming, Concurrent Architectures, and Secure 
 
 ---
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/chol-akuany-4751b9332) • [Email](mailto:chol.akuany@yahoo.co.uk)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/chol-akuany/) • [Email](mailto:chol.akuany@yahoo.co.uk)
