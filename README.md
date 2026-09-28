@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello, I'm Chol Akuany
+**BSc Computer Science Student at Newcastle University**
+Currently Focused on- Systems Programming, Concurrent Architectures, and Secure Back end Engineering.
 
-<!--
-**C4051410/C4051410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Core Technologies and tools
+* ** Languages:** Python, C, Java, SQL (PostgreSQL, SQLite)
+* **Back end and systems:** Flask, POSIX, SQLAlchemy, Socket programming (UDP/TCP)
+* **Tools and Infrastructure:** Docker, Git/GitHub Actions, PyCharm, Linux /POSIX Environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Featured Systems & Projects
+* **[POSIX Shared Memory Priority Queue](https://github.com/C4051410/posix-ipc-priority-queue):** Multi-process concurrent queue managing producer-consumer workflows with counting semaphores in C.
+* **[MyWellbeing Telemetry Platform](https://github.com/C4051410/mywellbeing-app):** Full-stack cross-platform fitness tracker syncing Strava telemetry to a relational PostgreSQL database.
+* **[Reliable UDP ARQ Protocol](https://github.com/C4051410/stop-and-wait-arq-java):** Custom transport protocol implementing alternating-bit Stop-and-Wait ARQ and CRC-32 integrity validation.
+* **[Adaptive MFA & Auth Service](https://github.com/C4051410/adaptive-mfa-auth-service):** Zero-trust authentication microservice featuring RFC 6238 TOTP generation and progressive brute-force mitigations.
+
+---
+
+📫 **Connect:** [LinkedIn](linkedin.com/in/chol-akuany-4751b9332) • [Email](chol.akuany@yahoo.co.uk)
