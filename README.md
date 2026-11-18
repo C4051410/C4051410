@@ -16,7 +16,7 @@ Currently Focused on- Systems Programming, Concurrent Architectures, and Secure 
 * **[MyWellbeing Telemetry Platform](https://github.com/C4051410/mywellbeing-app):** Full-stack cross-platform fitness tracker syncing Strava telemetry to a relational PostgreSQL database.
 * **[Reliable UDP ARQ Protocol](https://github.com/C4051410/stop-and-wait-arq-java):** Custom transport protocol implementing alternating-bit Stop-and-Wait ARQ and CRC-32 integrity validation.
 * **[Adaptive MFA & Auth Service](https://github.com/C4051410/adaptive-mfa-auth-service):** Zero-trust authentication microservice featuring RFC 6238 TOTP generation and progressive brute-force mitigations.
-* * **[](https://github.com/C4051410/counter-strike_regional_standings):** Data-driven Counter-Strike ranking engine and Monte Carlo Swiss-stage tournament simulator powered by Glicko probability models.
+* **[Valve Regional Standings & Major Predictor](https://github.com/C4051410/counter-strike_regional_standings):** Data-driven Counter-Strike ranking engine and Monte Carlo Swiss-stage tournament simulator powered by Glicko probability models.
 
 ---
 
