@@ -5,7 +5,7 @@ Currently Focused on- Systems Programming, Concurrent Architectures, and Secure 
 ---
 
 ### Core Technologies and tools
-* ** Languages:** Python, C, Java, SQL (PostgreSQL, SQLite)
+* **Languages:** Python, C, Java, SQL (PostgreSQL, SQLite)
 * **Back end and systems:** Flask, POSIX, SQLAlchemy, Socket programming (UDP/TCP)
 * **Tools and Infrastructure:** Docker, Git/GitHub Actions, PyCharm, Linux /POSIX Environments
 
